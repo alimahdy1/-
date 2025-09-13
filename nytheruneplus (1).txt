@@ -806,7 +806,7 @@ TextChatService.OnIncomingMessage = function(message)
 	end
 end
 
-local Libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/alimahdy1/Brookhaven-Itachi/refs/heads/main/Ggs.txt"))()
+local Libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/realgengar/SpeedLegends-/refs/heads/main/RedzV5.Lua"))()
 workspace.FallenPartsDestroyHeight = -math.huge
 
 local Window = Libary:MakeWindow({
@@ -10656,5 +10656,6 @@ UniversalTab:AddButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/SAZXHUB/Control-update/main/README.md", true))()
     end
 })
+
 
 
